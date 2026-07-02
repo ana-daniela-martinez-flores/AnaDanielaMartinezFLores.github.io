@@ -1,2 +1,2 @@
-# AnaDanielaMartinezFLores.github.io
+# AnaDanielaMartinezFlores.github.io
 Análisis de embudo de retención utilizando SQL
